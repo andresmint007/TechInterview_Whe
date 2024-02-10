@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Test_Wheelzy.exe
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Test_Wheelzy.deps.json
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Test_Wheelzy.runtimeconfig.json
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Test_Wheelzy.dll
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Test_Wheelzy.pdb
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.AssemblyInfo.cs
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.dll
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\refint\Test_Wheelzy.dll
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.pdb
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.genruntimeconfig.cache
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\ref\Test_Wheelzy.dll
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\Test_Wheelzy\Test_Wheelzy\obj\Debug\net6.0\Test_Wheelzy.csproj.CopyComplete
